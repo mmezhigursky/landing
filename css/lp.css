@@ -201,6 +201,9 @@ h2,h1,h3{
   text-align: left;
 }
 
+.highlight{
+  color: #FF6633 !important; 
+}
 
 @media(min-width:900px){
   .container{
